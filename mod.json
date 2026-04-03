@@ -1,0 +1,9 @@
+{
+  "geode": "3.0.0",
+  "version": "1.0.0",
+  "id": "autogen.level.generator",
+  "name": "Auto Level Generator",
+  "developer": "YourName",
+  "description": "Automatically generates Geometry Dash levels in the editor.",
+  "entry": "src/main.cpp"
+}
